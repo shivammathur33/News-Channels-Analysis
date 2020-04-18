@@ -1,3 +1,3 @@
-YoutubeLinks.xlsx: The Data set for featured and recommended videos has been webscraped from the youtube links of the respective channels.
-NewsChnlsAnalysis.gephi has the complete Overview of the visualisation of the analysis
-Report: Detailed analysis report of the results of Gephi.
+Objective: Analyse how contrasting news channels on Youtube share many common recommendations.
+
+Overview: Extrating recomended video URLs from Youtube fro repective channels and the visualizing and analysing on Gephi.
